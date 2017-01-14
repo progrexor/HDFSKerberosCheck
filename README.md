@@ -13,3 +13,7 @@ java -cp <Dependant Libraries>:hdfskerberoscheck_2.10-1.0.jar com.progrexor.hado
     /home/cloudera/cloudera-scm.keytab \               # Keytab
     hdfs://quickstart.cloudera                         # Namenode
 ```
+
+### Useful links:
+http://henning.kropponline.de/2016/02/14/a-secure-hdfs-client-example/
+https://www.cloudera.com/documentation/enterprise/5-2-x/topics/cdh_sg_princ_auth_java.html
